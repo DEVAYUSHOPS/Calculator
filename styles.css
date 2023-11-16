@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Kdam+Thmor+Pro&display=swap');
 *{
     padding: 0;
     margin: 0;
@@ -13,8 +14,8 @@ body{
 }
 .head{
     color: rgba(0,13,36,1);
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-size: 2rem;
+    font-family: 'Kdam Thmor Pro', sans-serif;
+    font-size: 1.7rem;
     transition: 0.2s;
     padding: 10px;
     border-radius: 20px;
